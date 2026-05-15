@@ -1,16 +1,35 @@
-# React + Vite
+# 📈 ProyectoVelasReact
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React application focused on financial market visualization using interactive candlestick charts and real-time data integration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 📊 Interactive candlestick charts  
+- ⚡ API integration for market data  
+- 🧩 Reusable React components  
+- 📱 Responsive modern UI  
+- 🔄 Dynamic state management  
+- 🛠 Clean and scalable architecture  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 💻 Technologies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React  
+- JavaScript / TypeScript  
+- HTML5 & CSS3  
+- REST APIs  
+- Git & GitHub  
+- Visual Studio Code  
+
+---
+
+## ▶️ Run the Project
+
+```bash
+git clone https://github.com/YOUR_USERNAME/ProyectoVelasReact.git
+cd ProyectoVelasReact
+npm install
+npm run dev
