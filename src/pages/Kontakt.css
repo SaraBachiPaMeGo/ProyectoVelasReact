@@ -1,0 +1,53 @@
+.kontakt-container {
+  display: flex;
+  gap: 40px;
+  padding: 120px 50px;
+  align-items: center;
+}
+
+.kontakt-image img {
+  width: 450px;
+  border-radius: 20px;
+}
+
+.kontakt-content {
+  max-width: 600px;
+}
+
+.kontakt-content h1 {
+  margin-bottom: 20px;
+  color: #d97706;
+}
+
+.kontakt-info p {
+  margin: 15px 0;
+  font-size: 18px;
+}
+
+.kontakt-form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 25px;
+}
+
+.kontakt-form input,
+.kontakt-form textarea {
+  margin-bottom: 15px;
+  padding: 14px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+}
+
+.kontakt-form button {
+  padding: 14px;
+  border: none;
+  background-color: #d97706;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.kontakt-form button:hover {
+  opacity: 0.9;
+}
